@@ -1,4 +1,4 @@
-# BCG-Virtual-Internship
+# BCG-Internship
 
 This repository contains my completed work for the BCG Data Science Job Simulation offered by Forage in July 2024. The simulation provided an opportunity to develop and demonstrate advanced data analytics and machine learning skills through practical exercises based on real-world scenarios
 
